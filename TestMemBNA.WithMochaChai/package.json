@@ -1,0 +1,39 @@
+{
+  "engines": {
+    "composer": "^0.20.1"
+  },
+  "name": "test-bna-mocha-chai",
+  "version": "0.0.1",
+  "description": "test-bna demo",
+  "scripts": {
+      "test": "mocha ./test/*.js"
+  },
+  "keywords": [
+    "composer",
+    "composer-network"
+  ],
+  "author": "oaf",
+  "email": "oriol.amat@gmail.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "latest",
+    "composer-admin": "^0.20.2",
+    "composer-cli": "^0.20.1",
+    "composer-client": "^0.20.2",
+    "composer-common": "^0.20.2",
+    "composer-connector-embedded": "^0.20.2",
+    "composer-cucumber-steps": "^0.20.1",
+    "cucumber": "^2.2.0",
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "mkdirp": "latest",
+    "mocha": "latest",
+    "nyc": "latest"
+  }
+}
