@@ -1,6 +1,9 @@
 # Hyperledger Fabric Projects
 Several BlockChain projects developed with the Hyperledger Fabric BlockChain implementation (ChainCode, composer, nodejs).
 
+
+You can find other readme in any folder (project).
+
 -----------------------------------------------
 # How can I download a folder of this git repo
 
